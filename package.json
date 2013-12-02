@@ -1,0 +1,26 @@
+{
+  "name": "grunt-move-mysql",
+  "version": "0.0.1",
+  "description": "Grunt task which allows you to move or backup your mysql dbs",
+  "author": {
+    "name": "Giacomo Triggiano",
+    "url": "http://giacomotriggiano.it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gtriggiano/grunt-move-mysql.git"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/gtriggiano/grunt-move-mysql/blob/master/LICENCE-MIT"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gruntplugin",
+    "mysql"
+  ],
+  "dependencies": {}
+}
